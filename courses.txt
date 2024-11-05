@@ -1,0 +1,29 @@
+CS101, Introduction to programming, CS, 3
+CS102, Object Oriented programming, CS, 4
+CS201, Discrete Mathematics For Computer Science, CS, 3
+CS202, Data Structures, CS, 4
+CS205, Digital Systems, CS, 4
+CS301, Algorithms, CS, 3
+CS302, Operating Systems, CS, 3
+CS303, Computer Organization, CS, 4
+CS304, Relational Databases, CS, 3
+CS305, Functional Programming, CS, 3
+CS306, Software Engineering, CS, 3
+CS401, Computer Architecture, CS, 3
+CS405, Theory of Computation, CS, 3
+MATH101, Calculus 1, MATH, 4
+MATH102, Calculus 2, MATH, 4
+MATH201, Linear Algebra, MATH, 4
+MATH202, Differential Equations, MATH, 3
+MATH202, Probability, MATH, 4
+PHYS101, Classical Mechanics, PHYS, 4
+PHYS102, Thermodynamics, PHYS, 4
+PHYS201, Electricity and Magnetism, PHYS, 3
+PHYS202, Quantum Mechanics, PHYS, 3
+EE201, Electrical Engineering, EE, 3
+EE202, Electronics, EE, 3
+EE320, Signal Processing, EE, 3
+EE401, Information Theory, EE, 3
+IE301, Operations Research, IE, 3
+IE302, System Simulation, IE, 3
+PHIL322, Introduction to Logic, PHIL, 3
